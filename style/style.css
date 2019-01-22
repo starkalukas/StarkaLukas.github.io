@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+#github{
+    width: 40vw;
+    height: 40vw;
+    margin-left: 30vw;
+}
+#github:hover{
+    cursor: pointer;
+}
