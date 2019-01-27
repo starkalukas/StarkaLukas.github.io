@@ -3,11 +3,10 @@ body{
     margin: 0;
     user-select: none;
 }
-#github{
-    width: 40vw;
-    height: 40vw;
-    margin-left: 30vw;
+img{
+    height: 20vw;
+    width: 20vw;
 }
-#github:hover{
-    cursor: pointer;
+#box{
+    margin: auto;
 }
