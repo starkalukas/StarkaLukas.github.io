@@ -3,6 +3,7 @@ body{
     margin: 0;
     user-select: none;
     overflow: hidden;
+    text-align: center;
 }
 img{
     height: 33vh;
